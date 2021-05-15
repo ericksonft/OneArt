@@ -1,4 +1,4 @@
-How to Buy OneArt
+How to Buy OneArt Protocol
 =================
 
 PancakeSwap Instructions
@@ -10,7 +10,7 @@ Purchase BNB or BSC
 
 Go to the DApps tab at the bottom, and find PancakeSwap. Iphone users may need to enable the trust browser, then use the browser tab. You can also click the BUY NOW button on our website if you're not on mobile.
 
-Click "Select a currency" and enter this contract address into the search field, and you should be able to find OneArt.
+Click "Select a currency" and enter this contract address into the search field, and you should be able to find OneArt Protocol.
 ```
 ???????????????????
 ```
