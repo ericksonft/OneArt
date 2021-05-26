@@ -1,4 +1,4 @@
-How to Buy OneArt Protocol
+How to Buy EricksonNFT  Protocol
 =================
 
 PancakeSwap Instructions
